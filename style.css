@@ -147,3 +147,160 @@ html {
     top: 0;
     bottom: 0;
 }
+
+/* Designs for all the verticle navigation bars */
+#top {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 200px;
+    background-color: #234f00;
+    position: relative;
+    margin-right: 10px;
+}
+
+#top h1 {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
+
+#side ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 200px;
+    background-color: #234f00;
+    position: relative;
+}
+
+#side li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
+
+#side input {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 15px;
+    width: 100%;
+    text-align: left;
+    background-color: #234f00;
+    border: none;
+    font-size: 16px;
+}
+
+#side input:hover {
+    background-color: #67a71c;
+    color: white;
+    transition: all 0.7s;
+}
+
+/* Change the link color on hover */
+#side li a:hover {
+    background-color: #67a71c;
+    color: white;
+    transition: all 0.7s;
+}
+
+#top2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 200px;
+    background-color: #234f00;
+    position: relative;
+    border-top: 2px solid white;
+}
+
+#top2 h1 {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
+
+#side2 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 200px;
+    background-color: #234f00;
+    position: relative;
+}
+
+#side2 li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
+
+/* Change the link color on hover */
+#side2 li a:hover {
+    background-color: #67a71c;
+    color: white;
+    transition: all 0.7s;
+}
+
+#top3 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 200px;
+    background-color: #234f00;
+    position: relative;
+    border-top: 2px solid white;
+}
+
+#top3 h1 {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
+
+#side3 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 200px;
+    background-color: #234f00;
+    position: relative;
+}
+
+#side3 li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family:'Lato', sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
+
+/* Change the link color on hover */
+#side3 li a:hover {
+    background-color: #67a71c;
+    color: white;
+    transition: all 0.7s;
+}
